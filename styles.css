@@ -1,0 +1,100 @@
+body {
+background-image: url("images/Back drop 1.png");
+background-size: cover;
+text-align: left;
+}
+
+#title .container-fluid {
+  background-color:#33A0D9;
+
+  padding: 0 5%;
+}
+
+.navbar {
+  padding: 0 0;
+}
+
+.navbar-image {
+  width: 70%;
+  margin: 5.5px auto;
+}
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.navbtn {
+  background-color: #fff;
+  color: black;
+  padding: 3px 20px;
+}
+
+h2 {
+  margin-bottom: 8%;
+}
+
+.form-control {
+  border-style: solid;
+  background: #E5E5E5;
+}
+
+#bef {
+  width: 20%;
+  margin: 7% auto;
+}
+
+.form-group {
+  margin: 1% auto 9%;
+  
+}
+
+input[type=password] {
+  border: solid;
+  padding: 0;
+}
+
+#Message{
+  font-size: .7rem;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.btn-dark {
+  margin-top: 18%;
+}
+
+.before{
+  display: none;
+}
+
+#aft{
+  width: 21%;
+  margin: 7% auto 15%;
+  display: none;
+}
+
+/* Asset 1_1 1 */
+
+footer {
+  background: #2180B2;
+  text-align: center;
+  margin: 9.7% 0 0;
+  padding-bottom: 20px
+}
+
+.foot {
+  display: inline-block;
+  color: #fff;
+  margin: 1% 5% 0;
+  font-weight: normal;
+}
+
+.foot:hover {
+  color: black;
+}
